@@ -8,7 +8,7 @@ console.log('Hello Assessment!');
 
 // Problem 1
 // replaceSpaces('Today is a good day', '-'); // -> 'Today-is-a-good-day'
-// replaceSpaces('Tomorrow will be a great day', '_'); // -> 'Tomorrow_will_be_a_Great_Day'
+// replaceSpaces('Tomorrow will be a great day', '_'); // -> 'Tomorrow_will_be_a_Great_Day
 
 // Problem 2
 // mostFrequentChar('bookeeper'); // -> 'e'
