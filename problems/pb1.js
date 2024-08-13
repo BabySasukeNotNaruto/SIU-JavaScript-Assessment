@@ -1,5 +1,6 @@
 // declare and define function here
 
+  replaceSpaces('Today is a good day', '-');
 
 // test cases
 // replaceSpaces('Today is a good day', '-'); // -> 'Today-is-a-good-day'
